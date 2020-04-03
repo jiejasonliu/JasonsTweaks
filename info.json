@@ -1,0 +1,12 @@
+{
+  "name": "JasonsTweaks",
+  "version": "0.1",
+  "factorio_version": "0.18",
+  "title": "Jason's Tweaks",
+  "author": "Jason",
+  "homepage": "n/a",
+  "dependencies": ["base >= 0.18.2", "Aircraft >= 1.7.2", "Krastorio2 >= 0.9.2"],
+  "description": "A bunch of tweaks and optimizations for a better modded Factorio experience."
+}
+
+

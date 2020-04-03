@@ -1,0 +1,17 @@
+{
+    "Lua.diagnostics.globals": [
+        "fire_missile",
+        "data",
+        "script",
+        "defines",
+        "game",
+        "settings",
+        "global",
+        "mods",
+        "rendering"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "trailing-space"
+    ]
+}

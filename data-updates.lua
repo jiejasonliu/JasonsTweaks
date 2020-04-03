@@ -1,0 +1,7 @@
+-- if settings.startup["disable-acid-splash"].value == true then
+-- 	for k, fire in pairs (data.raw.fire) do
+-- 		if fire.name:find("acid%-splash%-fire") then
+-- 		fire.on_damage_tick_effect = nil
+-- 		end
+-- 	end
+-- end
